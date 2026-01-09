@@ -14,7 +14,7 @@
 🇺🇸 - I focus on front-end development, but I also study languages more back-end centered. I like to keep a clean code and apply the good practices.
 
 - I already used **MVC** architecture
-- I use the **SOLID** principle, **Clean Code** e **Design Patterns**
+- I use the **SOLID** principle, **Clean Code** and **Design Patterns**
 
 ## Tecnologias
 
