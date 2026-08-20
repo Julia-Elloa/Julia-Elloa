@@ -26,6 +26,7 @@
     <img align="center" alt="Go" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg">
     <img align="center" alt="C" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
     <img align="center" alt="C++" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
+    <img align="center" alt="Java" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
     <img align="center" alt="PostgreSQL" height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
     <img align="center" alt="Redis" height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg">
   </div>
